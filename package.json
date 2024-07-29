@@ -46,7 +46,7 @@
     "@vitest/coverage-v8": "0.34.6",
     "husky": "8.0.3",
     "npm-run-all2": "5.0.2",
-    "tempy": "3.0.0",
+    "tempy": "3.1.0",
     "typescript": "5.5.3",
     "vitest": "0.34.6"
   },
